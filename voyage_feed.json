@@ -3,8 +3,8 @@
     "voyageId":"CA0123456",
     "id":1,
     "title":"France, Spain & Portugal Voyage",
-    "embark:":"01/01/2017",
-    "debark:":"01/11/2017",
+    "embark":"01/01/2017",
+    "debark":"01/11/2017",
     "ship":"Cruise Alpha",
     "captain":"Captain John Smith",
     "ports":[
@@ -95,8 +95,8 @@
     "voyageId":"CA1234567",
     "id":2,
     "title":"Night Baltic & World Cup Voyage",
-    "embark:":"05/01/2017",
-    "debark:":"05/11/2017",
+    "embark":"05/01/2017",
+    "debark":"05/11/2017",
     "ship":"Cruise Alpha",
     "captain":"Captain John Smith",
     "ports":[
@@ -187,8 +187,8 @@
     "voyageId":"CB0123456",
     "id":3,
     "title":"Night Spices, Teas & Rubber Trees",
-    "embark:":"02/01/2017",
-    "debark:":"02/11/2017",
+    "embark":"02/01/2017",
+    "debark":"02/11/2017",
     "ship":"Cruise Beta",
     "captain":"Captain Jane Smith",
     "ports":[
@@ -279,8 +279,8 @@
     "voyageId":"CB1234567",
     "id":4,
     "title":"Night Route of The Frankincense",
-    "embark:":"03/01/2017",
-    "debark:":"03/11/2017",
+    "embark":"03/01/2017",
+    "debark":"03/11/2017",
     "ship":"Cruise Beta",
     "captain":"Captain Jane Smith",
     "ports":[
