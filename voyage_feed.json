@@ -17,9 +17,9 @@
       "Leixões (Porto), Portugal",
       "Lisbon, Portugal"
     ],
-    "images": [
+    "images":[
       "http://placehold.it/800x600/013e7d/ffffff?text=destination",
-      "http://placehold.it/800x600/5cb7b0/ffffff?text=destination%20map",
+      "http://placehold.it/800x600/5cb7b0/ffffff?text=destination-map"
     ],
     "rooms":[
       {
@@ -109,9 +109,9 @@
       "Leixões (Porto), Portugal",
       "Lisbon, Portugal"
     ],
-    "images": [
+    "images":[
       "http://placehold.it/800x600/013e7d/ffffff?text=destination",
-      "http://placehold.it/800x600/5cb7b0/ffffff?text=destination%20map"
+      "http://placehold.it/800x600/5cb7b0/ffffff?text=destination-map"
     ],
     "rooms":[
       {
@@ -201,7 +201,7 @@
       "Leixões (Porto), Portugal",
       "Lisbon, Portugal"
     ],
-    "images": [
+    "images":[
       "http://placehold.it/800x600/013e7d/ffffff?text=destination",
       "http://placehold.it/800x600/5cb7b0/ffffff?text=destination-map"
     ],
@@ -274,7 +274,7 @@
         ]
       }
     ]
-  }
+  },
   {
     "voyageId":"CB1234567",
     "id":4,
@@ -293,9 +293,9 @@
       "Leixões (Porto), Portugal",
       "Lisbon, Portugal"
     ],
-    "images": [
+    "images":[
       "http://placehold.it/800x600/013e7d/ffffff?text=destination",
-      "http://placehold.it/800x600/5cb7b0/ffffff?text=destination%20map"
+      "http://placehold.it/800x600/5cb7b0/ffffff?text=destination-map"
     ],
     "rooms":[
       {
