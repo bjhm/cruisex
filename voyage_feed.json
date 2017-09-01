@@ -111,7 +111,7 @@
     ],
     "images": [
       "http://placehold.it/800x600/013e7d/ffffff?text=destination",
-      "http://placehold.it/800x600/5cb7b0/ffffff?text=destination%20map",
+      "http://placehold.it/800x600/5cb7b0/ffffff?text=destination%20map"
     ],
     "rooms":[
       {
@@ -203,7 +203,7 @@
     ],
     "images": [
       "http://placehold.it/800x600/013e7d/ffffff?text=destination",
-      "http://placehold.it/800x600/5cb7b0/ffffff?text=destination%20map",
+      "http://placehold.it/800x600/5cb7b0/ffffff?text=destination-map"
     ],
     "rooms":[
       {
@@ -295,7 +295,7 @@
     ],
     "images": [
       "http://placehold.it/800x600/013e7d/ffffff?text=destination",
-      "http://placehold.it/800x600/5cb7b0/ffffff?text=destination%20map",
+      "http://placehold.it/800x600/5cb7b0/ffffff?text=destination%20map"
     ],
     "rooms":[
       {
