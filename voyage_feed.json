@@ -25,7 +25,8 @@
             "occupancy":"2 Adults",
             "accessible":"1",
             "floors":[
-              "D1, D2",
+              "D1",
+              "D2",
               "C1"
             ],
             "sqft":"175",
@@ -112,7 +113,8 @@
             "occupancy":"2 Adults",
             "accessible":"1",
             "floors":[
-              "D1, D2",
+              "D1",
+              "D2",
               "C1"
             ],
             "sqft":"175",
